@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing:border-nox;
+
+}
+
+
+
+
+
+
+section{
+       color: black;
+      border: solid 2px;
+      width: 500px;
+      height: 300px;
+      background-image: url("./img/praiou.png");
+      background-size: 200px;
+       background-repeat: no-repeat;
+
+    background-repeat: no-repeat;
+    // background-size: cover::after
+    // backgroud-size :200px;
+    background-size: contain;
+}
+
+
+
+
+
